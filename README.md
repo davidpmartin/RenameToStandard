@@ -5,9 +5,9 @@ Powershell script to rename a directory of image files based on user input value
 
 Naming standard is as follows:
 
-####-XXXXXX-XXXX-###
+\####-XXXXXX-XXXX-###
   
-#### - Site Code: 4 digit site code
-XXXXXX - Room Code: AMS room code (6-8 alphanumeric characters)
-XXXX - Descriptor: A brief description of content ie BD, CD, CD2, WAP
-### - Batch and Index: First car is batch number (1st visit, 2nd visit, etc). Index is a zero padded number representing the photo number for the respective batch
+\#### - Site Code: 4 digit site code
+\XXXXXX - Room Code: AMS room code (6-8 alphanumeric characters)
+\XXXX - Descriptor: A brief description of content ie BD, CD, CD2, WAP
+\### - Batch and Index: First car is batch number (1st visit, 2nd visit, etc). Index is a zero padded number representing the photo number for the respective batch
